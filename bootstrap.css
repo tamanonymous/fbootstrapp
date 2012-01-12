@@ -970,6 +970,7 @@ select,
   border-radius: 0px;
 }
 select {
+  padding: 2px;
   padding: initial;
 }
 input[type=checkbox], input[type=radio] {
@@ -2779,7 +2780,7 @@ button.btn::-moz-focus-inner, input[type=submit].btn::-moz-focus-inner {
   opacity: 1;
 }
 .label {
-  padding: 1px 3px 2px;
+  padding: 1px 3px 1px;
   font-size: 8.25px;
   font-weight: bold;
   color: #ffffff;

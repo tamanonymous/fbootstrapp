@@ -190,7 +190,7 @@ label{padding-top:6px;font-size:11px;font-weight:bold;line-height:14px;float:lef
 form .input{margin-left:150px;}
 input[type=checkbox],input[type=radio]{cursor:pointer;}
 input,textarea,select,.uneditable-input{display:inline-block;width:210px;height:14px;padding:4px;font-size:11px;line-height:14px;color:#666666;border:1px solid #d4dae8;-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:0px;}
-select{padding:initial;}
+select{padding:2px;padding:initial;}
 input[type=checkbox],input[type=radio]{width:auto;height:auto;padding:0;margin:3px 0;*margin-top:0;line-height:normal;border:none;}
 input[type=file]{background-color:#ffffff;padding:initial;border:initial;line-height:initial;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;}
 input[type=button],input[type=reset],input[type=submit]{width:auto;height:auto;}
@@ -431,7 +431,7 @@ button.btn::-moz-focus-inner,input[type=submit].btn::-moz-focus-inner{padding:0;
 .popover .title{padding:5px 10px;line-height:1;border-bottom:1px solid #eee;}
 .popover .content{background-color:#ffffff;padding:10px;}.popover .content p,.popover .content ul,.popover .content ol{margin-bottom:0;}
 .fade{-webkit-transition:opacity 0.15s linear;-moz-transition:opacity 0.15s linear;-ms-transition:opacity 0.15s linear;-o-transition:opacity 0.15s linear;transition:opacity 0.15s linear;opacity:0;}.fade.in{opacity:1;}
-.label{padding:1px 3px 2px;font-size:8.25px;font-weight:bold;color:#ffffff;text-transform:uppercase;white-space:nowrap;background-color:#999999;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;text-shadow:none;}.label.important{background-color:#dd3c10;}
+.label{padding:1px 3px 1px;font-size:8.25px;font-weight:bold;color:#ffffff;text-transform:uppercase;white-space:nowrap;background-color:#999999;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;text-shadow:none;}.label.important{background-color:#dd3c10;}
 .label.warning{background-color:#e2c822;}
 .label.success{background-color:#3b6e22;}
 .label.notice{background-color:#b6c1d9;}
